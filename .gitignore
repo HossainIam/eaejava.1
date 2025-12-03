@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+.idea/
+
+# VS Code history
+.history/
+
+# Maven build output
+target/
+
+# MacOS
+.DS_Store
+
+# Node/JavaScript stuff (if used later)
+node_modules/
+
+
+
+
