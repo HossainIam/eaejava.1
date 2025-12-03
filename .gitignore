@@ -10,6 +10,9 @@ target/
 # MacOS
 .DS_Store
 
+# Readforme.md
+Readforme.md
+
 # Node/JavaScript stuff (if used later)
 node_modules/
 

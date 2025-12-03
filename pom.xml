@@ -31,7 +31,7 @@
                     <artifactId>spring-boot-starter-logging</artifactId>
                 </exclusion>
             </exclusions>
-        </dependency>
+        </dependency>                 <!--  Spring MVC-Spring Model–View–Controller, Embedded Tomcat, JSON converters -->
 
         <!-- Logging -->
         <dependency>

@@ -16,6 +16,6 @@ services:
       # Mount the project folder
       - ../:/workspace:cached
     ports:
-      - "8080:8080"
+      - "8090:8090"
     depends_on:
       - derby
